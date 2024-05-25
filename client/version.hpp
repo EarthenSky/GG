@@ -1,6 +1,6 @@
-//this
+// this
 #include <string>
 
-namespace GG{
+namespace GG {
 std::string version = "v0.2";
 }
